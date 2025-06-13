@@ -1,0 +1,9 @@
+export 'email.dart';
+export 'address.dart';
+export 'password.dart';
+export 'full_name.dart';
+export 'image_url.dart';
+export 'phone_no.dart';
+export 'location_url.dart';
+export 'description.dart';
+export 'file_or_imgUrl.dart';

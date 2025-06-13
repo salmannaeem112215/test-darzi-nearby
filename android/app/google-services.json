@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492052639033",
+    "project_id": "darzi-nearby",
+    "storage_bucket": "darzi-nearby.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492052639033:android:417fe96348ea33f3b00ce8",
+        "android_client_info": {
+          "package_name": "com.example.darzi_nearby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492052639033-0tn4r7t8hv9st3uimc8qtav4hfcgqmad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0TRqzK_tyc4Dm93tZO1a_FKQTRC7KUlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492052639033-0tn4r7t8hv9st3uimc8qtav4hfcgqmad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
